@@ -1,5 +1,5 @@
 import { connect as cfConnect } from "cloudflare:sockets";
-const 玉衡令 = "9f387ae2-fe83-4172-8d9a-34507323bd25";
+const 玉衡令 = "88888888-8888-8888-8888-888888888888";
 const 落霞 = "usip.vpndns.net";
 const 雨霽期 = 3e5, 晦明期 = 1e4;
 const 寫限 = 10_000, 犬巡 = 60_000, 犬判 = 600_000;
